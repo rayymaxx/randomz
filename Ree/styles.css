@@ -8,8 +8,8 @@ body, html{
 
 .bg-image {
     background-image: url("Ree.jpg");
-    filter: blur(4px);
-    -webkit-filter: blur(4px);
+    filter: blur(6px);
+    -webkit-filter: blur(6px);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
